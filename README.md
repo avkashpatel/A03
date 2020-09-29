@@ -19,16 +19,27 @@ Understanding of Git/GitHub/Webstorm
 Glossary of Terms
 =================
 **Branch**- a separate workspace from the master branch that allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
 **Clone**- duplicating an existing repository
+
 **Commit**- similar to saving a file, where you can write messages to keep track of changes you have made in the past
+
 **Fetch**- retrieve new work done by other people
+
 **GIT**- a version-control system for tracking changes during software development
+
 **Github**- a code hosting platform for version control and collaboration
+
 **Merge**- combine changes made by other people with changes done locally
-**Merge Conflict**- changes that have been made to the file conflicts with existing code or changes made in the same file in another location.
+
+**Merge Conflict**- changes that have been made to the file conflicts with existing code or changes made in the same file in another location
+
 **Push**- taking changes that have been made on local machine and uploading them to a repository in GitHub
+
 **Pull**- combination of fetch and merge
+
 **Remote**- a place where teams can collaborate on work
+
 **Repository**- a directory or storage space where you can store files
 
 References
