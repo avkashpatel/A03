@@ -18,7 +18,7 @@ Understanding of Git/GitHub/Webstorm
 
 Glossary of Terms
 =================
-**Branch**- a separate workspace from the master branch that allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+**Branch**- a separate workspace from the master branch that allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 
 **Clone**- duplicating an existing repository
 
