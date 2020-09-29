@@ -15,3 +15,22 @@ Understanding of Git/GitHub/Webstorm
 13. After you add your files, you are ready to commit your changes.  You can follow the same steps from #12 and instead of clicking "Add", you click "Commit File...".  Another option is to go to the left side of your window and click on the "0: Commit" tab.  Once you have reach the "Commit Changes" windows, write a descriptive commit message that could be used as a reminder as to what the code does or what was changed just in case the new changes need to be modified in the future.
 14. At this point you are ready to push your changes to a remote repository.  On the top of the window, click the "VCS" tab, scroll down to "Git", and then click "Push...".  Select the files that you committed before and click "Push".
 15. Go to GitHub and your file(s) should be inside your repository.
+
+Glossary of Terms
+=================
+**Branch**- a separate workspace from the master branch that allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+**Clone**- duplicating an existing repository
+**Commit**- similar to saving a file, where you can write messages to keep track of changes you have made in the past
+**Fetch**- retrieve new work done by other people
+**GIT**- a version-control system for tracking changes during software development
+**Github**- a code hosting platform for version control and collaboration
+**Merge**- combine changes made by other people with changes done locally
+**Merge Conflict**- changes that have been made to the file conflicts with existing code or changes made in the same file in another location.
+**Push**- taking changes that have been made on local machine and uploading them to a repository in GitHub
+**Pull**- combination of fetch and merge
+**Remote**- a place where teams can collaborate on work
+**Repository**- a directory or storage space where you can store files
+
+References
+==========
+https://njit.instructure.com/courses/13292/files/984370?module_item_id=248756
